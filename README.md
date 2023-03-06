@@ -1,6 +1,6 @@
-##  Descripción
+# Descripción de la Apeperia practica 1 ONE by AluraLatam
 
-Desarollo de una web con Layouts Responsivos con los siguientes requisitos
+## Desarollo de una web con Layouts Responsivos con los siguientes requisitos
 
 --- HEAD ---
 
@@ -127,32 +127,40 @@ Contacto
 ---
 
 
-Utilizando los siguientes colores estandarizados
+## Utilizando los siguientes colores estandarizados
 
-- Colores de fondo
-background-llamada-mobile: #00161C;
-background-blanco: #FFFFFF;
-background-azul-claro: #DFE3F5;
-background-ceniza-claro: #F7F4F4;
-background-ceniza-medio: #D9D9D9;
 
-- Borda
-border-cabecera-mobile: #103D4A;
+```
+/* Colores de fondo */ 
+    background-llamada-mobile: #00161C;
+    background-blanco: #FFFFFF;
+    background-azul-claro: #DFE3F5;
+    background-ceniza-claro: #F7F4F4;
+    background-ceniza-medio: #D9D9D9;
 
-- Botón
-boton-rojo: #B72E2E;
+/* Bordes */ 
+    border-cabecera-mobile: #103D4A;
 
-- Fuente
-fuente-ceniza-claro: #666666;
-fuente-ceniza-oscuro: #4F4C4C;
+/* Botón */ 
+    boton-rojo: #B72E2E;
 
-- Planes
-planes-card-start: #035A76;
-planes-card-ultra: #690F8E;
-planes-card-mega: #B00024;
+/* Fuentes */ 
+    fuente-ceniza-claro: #666666;
+    fuente-ceniza-oscuro: #4F4C4C;
 
-- Enlace
-fuente-enlace: #0006FF;
+/* Planes */ 
+    planes-card-start: #035A76;
+    planes-card-ultra: #690F8E;
+    planes-card-mega: #B00024;
 
-- Footer
-background-footer: #333333;
+/* Enlaces */ 
+    fuente-enlace: #0006FF;
+
+/* Pie de pagina */ 
+    background-footer: #333333;
+
+```
+
+### Visualizacion de la pagina
+- Puedes ver la pagina en el siguiente [enlace](https://evilzeth.github.io/Apeperia-Practica-1---ONE-by-Alura/).
+---
