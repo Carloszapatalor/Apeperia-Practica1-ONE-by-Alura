@@ -1,4 +1,6 @@
-Desarollo de una web con Layouts Responsivos con los siguientes requisitos :
+##  Descripción
+
+Desarollo de una web con Layouts Responsivos con los siguientes requisitos
 
 --- HEAD ---
 
@@ -11,6 +13,8 @@ Destacados
 Institucional
 Contacto
 
+---
+
 --- LLAMADA ---
 
 Aplicaciones en la medida
@@ -18,6 +22,8 @@ Aplicaciones en la medida
 Apeperia es una empresa emergente con una manera inovadora de comprar y crear aplicaciones móviles y web.
 
 Conozca los planes
+
+---
 
 --- DESTACADOS ---
 
@@ -31,6 +37,8 @@ alt: Painel de la publicación sobre consejos de fotografía
 
 Recibir destacados por correo
 
+---
+
 --- DIFERENCIALES ---
 
 Tiempo
@@ -41,6 +49,8 @@ Focamos en el pequeño y médio empreendedor, ofrecemos servicios de calidad con
 
 Especialistas
 Equipo especializada, con experiéncia de mercado. Testamos todos los productos antes del lanzamiento.
+
+---
 
 --- SOBRE NOSOSTROS ---
 
@@ -53,6 +63,8 @@ La manutención de una aplicación no puede ser un custo extra para el cliente. 
 ¡Tenemos un equipo especializado y exclusivo para proyectos increíbles!
 
 Desarrollamos aplicaciones para todas plataformas
+
+---
 
 --- PLANES ---
 
@@ -81,11 +93,15 @@ App SEO
 2 sistemas operacionales
 Asignar plan
 
+---
+
 --- CONTACTO ---
 
 Entre en contacto con nosotros
 
 Entre en contacto
+
+---
 
 --- Institucional ---
 
@@ -97,6 +113,8 @@ Villa Mariana, São Paulo
 +55 11 55712751 o
 contato@apeperia.com
 
+---
+
 --- FOOTER ---
 
 Sobre
@@ -105,6 +123,8 @@ Blog
 Destacados
 Institucional
 Contacto
+
+---
 
 
 Utilizando los siguientes colores estandarizados
