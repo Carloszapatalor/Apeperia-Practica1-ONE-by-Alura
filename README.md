@@ -162,5 +162,5 @@ Contacto
 ```
 
 ### Visualizacion de la pagina
-- Puedes ver la pagina en el siguiente [enlace](https://evilzeth.github.io/Apeperia-Practica-1---ONE-by-Alura/).
+- Puedes ver la pagina en el siguiente [enlace](https://evilzeth.github.io/Apeperia-Practica1-ONE-by-Alura/).
 ---
